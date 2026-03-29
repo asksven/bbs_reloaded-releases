@@ -69,6 +69,15 @@ When reporting a bug, include:
 - Steps to reproduce
 - Screenshots if applicable
 
+## Support
+
+BBS Reloaded is free and all features are available to everyone. If you find the app useful, you can support its development:
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors)](https://github.com/sponsors/asksven)
+[![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-ff5e5b?logo=kofi)](https://ko-fi.com/asksven)
+
+You can also find donation links in the app under **Settings → Support the developer**.
+
 ## License
 
 BBS Reloaded is closed-source software. The APKs published here are free to use.
