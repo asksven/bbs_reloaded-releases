@@ -1,6 +1,6 @@
 # BBS Reloaded
 
-**BetterBatteryStats — Reloaded** is a clean rewrite of [BetterBatteryStats](https://github.com/asksven/BetterBatteryStats) for Android 14+ (API 34+).
+**BetterBatteryStats — Reloaded** is a clean rewrite of [BetterBatteryStats](https://github.com/asksven/BetterBatteryStats) for Android 13+ (API 33+).
 
 It shows you what's draining your battery between charges — kernel wakelocks, partial wakelocks, alarms, sensors, network usage, processes, and per-app power consumption — so you can identify and fix the culprits.
 
